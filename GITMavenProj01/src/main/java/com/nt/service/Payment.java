@@ -8,4 +8,7 @@ public class Payment {
 		return "UPI payment is done";
 	}
 
+	public String paypall(String url) {
+		return "paypall integration is done";
+	}
 }
