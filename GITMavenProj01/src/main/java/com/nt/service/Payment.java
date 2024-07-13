@@ -8,7 +8,9 @@ public class Payment {
 		return "UPI payment is done";
 	}
 
+
 	public String card() {
 		return "card payment is done";
 	}
+
 }
