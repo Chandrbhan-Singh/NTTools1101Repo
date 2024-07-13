@@ -7,8 +7,4 @@ public class Payment {
 	public String doUPIPayment() {
 		return "UPI payment is done";
 	}
-
-	public String card() {
-		return "card payment is done";
-	}
 }
